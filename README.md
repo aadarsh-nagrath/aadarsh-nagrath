@@ -13,7 +13,7 @@
 </p>
 <!--Into -->
 <p>I'm a passionate software developer, programmer, and open-source enthusiast. Here you'll find some of the projects I've worked on and my skills.</p>
-<img align="right" height="250px" width="350px" src="https://i.pinimg.com/originals/28/d9/a5/28d9a5107af5d4c4da117c05b4393b83.gif">
+<img align="right" height="200px" width="350px" src="https://i.pinimg.com/originals/28/d9/a5/28d9a5107af5d4c4da117c05b4393b83.gif">
 <ul>
   <li>👋 Hi, I’m Aadarsh Nagrath</li>
   <li>❤️ I love Developing and Programming.</li>
