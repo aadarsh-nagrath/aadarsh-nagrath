@@ -99,6 +99,7 @@ const aadasrh = {
 [![Aadarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aadarsh-nagrath&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-<a href="L" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aadarsh-nagrath" height="30" width="40" /></a>
-<a href="L" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadarsh-nagrath" height="30" width="40" /></a>
-<a href="L" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aadarsh-nagrath" height="30" width="40" /></a>
+<a href="https://twitter.com/aadarsh_nagrath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aadarsh-nagrath" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aadarsh-nagrath/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="aadarsh-nagrath" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aadarsh_nagrath/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="aadarsh-nagrath" height="30" width="40" /></a>
+<a href="https://github.com/aadarsh-nagrath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aadarsh-nagrath" height="30" width="40" /></a>
