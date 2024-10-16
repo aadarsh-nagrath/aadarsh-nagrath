@@ -17,9 +17,9 @@
 <ul>
   <li>👋 Hi, I’m Aadarsh Nagrath</li>
   <li>❤️ I love Developing and Programming.</li>
-  <li>🌱 In Progress ....... </li>
-  <li>💼 In Progress .......</li>
-  <li>🧐 Portfolio Website, https:aadarsh.website</li>
+  <li>🌱 Involved in Frontend-Backend Development, Full-Stack Development , DevOps</li>
+  <li>💼 SWE x-Intern @Medoc, Open Source Contributor
+  <li>🧐 Portfolio Website - https://aadarsh-nagrath.vercel.app</li>
 </ul>
 
 <p></p>
@@ -29,15 +29,21 @@
 
 #### ABOUT ME
 ```javascript
-const aadasrh = {
+const aadarsh = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "Python", "React", "CSS", "Java", "Go"],
-  askMeAbout: ["Full-Stack", "AIML", "Web3", "DevOps"],
+  code: ["Javascript", "Python", "React", "Go", "Java", "TypeScript"],
+  askMeAbout: ["Full-Stack", "AI/ML", "Web3", "DevOps"],
   technologies: {
-      frontend: ["React", "HTML/CSS", "JS", "Tailwind"],
-      backend: ["Node", "JS"],
+      frontend: ["React", "Tailwind", "HTML/CSS", "JavaScript"],
+      backend: ["Node.js", "Next.js", "Go"],
+      devOps: ["Docker", "Kubernetes", "CI/CD"],
+      databases: ["MySQL", "MongoDB", "PostgreSQL", "Convex"]
   }
 }
+
+Resume - https://shorturl.at/NVkD1
+Some Projects - https://shorturl.at/PRHpL
+
 ```
 <!--SKILLS -->
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
