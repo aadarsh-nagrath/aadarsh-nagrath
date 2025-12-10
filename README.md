@@ -18,8 +18,8 @@
   <li>👋 Hi, I’m Aadarsh Nagrath</li>
   <li>❤️ I love Developing and Programming.</li>
   <li>🌱 Involved in Frontend-Backend Development, Full-Stack Development , DevOps</li>
-  <li>💼 SWE x-Intern @Medoc, Open Source Contributor
-  <li>🧐 Portfolio Website - https://aadarsh-nagrath.vercel.app</li>
+  <li>💼 SDE DevOps @RagaAI , SDE Ex-Intern @Medoc, Open Source Contributor
+  <li>🧐 Portfolio Website - https://aadarsh-nagrath.me</li>
 </ul>
 
 <p></p>
